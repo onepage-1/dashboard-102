@@ -1,0 +1,82 @@
+/* Estilos gerais */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Um cinza claro */
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* Estilos dos selects */
+.select-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 45%; /* Ajuste conforme necessário */
+}
+
+/* Estilos dos cards de meta */
+.card {
+    background-color: #e9ecef; /* Um tom de cinza claro */
+    border-radius: 4px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.card-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.progress-bar {
+    width: 70%; /* Ajuste conforme necessário */
+    height: 8px;
+    background-color: #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.progress {
+    height: 100%;
+    background-color: #28a745; /* Cor verde, ajuste conforme a marca */
+    border-radius: 4px;
+}
+
+.progress-text {
+    font-size: 0.8em;
+    color: #555;
+}
+
+/* Estilos da BAT Brasil (Exemplo - adapte as cores e fontes!) */
+h1 {
+    color: #007bff; /* Azul da BAT Brasil (exemplo) */
+}
+
+.card {
+    border: 1px solid #ccc; /* Borda suave */
+}
