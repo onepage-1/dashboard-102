@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard BAT Brasil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Metas do Mês</h1>
+
+        <div class="select-container">
+            <select id="ufSelect" class="select">
+                <option value="">Selecione a UF</option>
+            </select>
+
+            <select id="zoneSelect" class="select" disabled>
+                <option value="">Selecione a Zona</option>
+            </select>
+        </div>
+
+        <div id="targetDataContainer">
+            <!-- Cards com as metas serão inseridos aqui dinamicamente -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
