@@ -992,6 +992,7 @@ zoneSelect.addEventListener("change", function() {
                 const { target, current } = data[key];
                 const progress = (current / target) * 100;
                 const remaining = target - current;
+                const percentage = Math.round(progress); // Arredonda a porcentagem
 
                 // Cria os elementos do card dinamicamente
                 const card = document.createElement("div");
@@ -1004,20 +1005,34 @@ zoneSelect.addEventListener("change", function() {
                 const cardContent = document.createElement("div");
                 cardContent.classList.add("card-content");
 
+                const progressContainer = document.createElement("div");
+                progressContainer.classList.add("progress-container");
+
+                const progressPercentage = document.createElement("div");
+                progressPercentage.classList.add("progress-percentage");
+                progressPercentage.textContent = `${percentage}%`;
+
                 const progressBarContainer = document.createElement("div");
                 progressBarContainer.classList.add("progress-bar");
 
                 const progressBar = document.createElement("div");
                 progressBar.classList.add("progress");
-                progressBar.style.width = `${progress}%`;
+                progressBar.style.width = `0%`; // Inicializa com 0
+                 // Adiciona a porcentagem à barra de progresso
+                setTimeout(() => {
+                    progressBar.style.width = `${progress}%`;
+                }, 50);
 
                 progressBarContainer.appendChild(progressBar);
+
+                progressContainer.appendChild(progressPercentage);
+                progressContainer.appendChild(progressBarContainer);
 
                 const progressText = document.createElement("div");
                 progressText.classList.add("progress-text");
                 progressText.textContent = `${current}/${target} - Faltam ${remaining}`;
 
-                cardContent.appendChild(progressBarContainer);
+                cardContent.appendChild(progressContainer);
                 cardContent.appendChild(progressText);
 
                 card.appendChild(cardHeader);
