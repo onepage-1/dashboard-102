@@ -1,18 +1,19 @@
 /* Estilos gerais */
 body {
-    font-family: sans-serif;
+    font-family: 'Arial', sans-serif; /* Fonte mais moderna */
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0; /* Um cinza claro */
+    background-color: #f4f6f8; /* Cinza bem claro, quase branco */
+    color: #333; /* Texto principal mais escuro */
 }
 
 .container {
     max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
+    margin: 30px auto; /* Mais margem no topo */
+    padding: 30px;
     background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 12px; /* Bordas mais arredondadas */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* Sombra mais suave */
 }
 
 .text-center {
@@ -23,60 +24,91 @@ body {
 .select-container {
     display: flex;
     justify-content: space-around;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .select {
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    width: 45%; /* Ajuste conforme necessário */
+    padding: 12px 16px; /* Mais espaço interno */
+    border: 1px solid #ced4da; /* Borda mais clara */
+    border-radius: 8px;
+    width: 45%;
+    font-size: 1rem;
+    color: #495057;
+    background-color: #fff;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Transição suave */
+}
+
+.select:focus {
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Sombra azul ao focar */
 }
 
 /* Estilos dos cards de meta */
 .card {
-    background-color: #e9ecef; /* Um tom de cinza claro */
-    border-radius: 4px;
-    padding: 15px;
-    margin-bottom: 15px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff; /* Card branco */
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06); /* Sombra ainda mais suave */
+    border: 1px solid #eee; /* Borda sutil */
+    transition: transform 0.2s ease-in-out; /* Animação ao passar o mouse */
+}
+
+.card:hover {
+    transform: translateY(-4px); /* Levemente levanta o card */
 }
 
 .card-header {
-    font-weight: bold;
-    margin-bottom: 5px;
+    font-weight: 600; /* Mais bold */
+    margin-bottom: 10px;
+    color: #212529; /* Cor do título mais escura */
 }
 
 .card-content {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    flex-direction: column; /* Organiza em coluna */
+    align-items: flex-start; /* Alinha à esquerda */
+}
+
+.progress-container {
+    width: 100%; /* A barra ocupa toda a largura */
+    margin-bottom: 10px;
+}
+
+.progress-percentage {
+    font-size: 0.9rem;
+    color: #6c757d; /* Cinza um pouco mais claro */
+    margin-bottom: 5px;
+    text-align: right; /* Alinha à direita */
+    width: 100%;
 }
 
 .progress-bar {
-    width: 70%; /* Ajuste conforme necessário */
-    height: 8px;
-    background-color: #ddd;
-    border-radius: 4px;
+    width: 100%;
+    height: 10px;
+    background-color: #e9ecef;
+    border-radius: 8px;
     overflow: hidden;
 }
 
 .progress {
     height: 100%;
-    background-color: #28a745; /* Cor verde, ajuste conforme a marca */
-    border-radius: 4px;
+    background-color: #007bff; /* Azul da BAT Brasil (exemplo) */
+    border-radius: 8px;
+    width: 0; /* Começa com 0 para a animação */
+    transition: width 0.6s ease-in-out; /* Animação da barra */
 }
 
 .progress-text {
-    font-size: 0.8em;
+    font-size: 0.85rem;
     color: #555;
+    margin-top: 5px;
 }
 
-/* Estilos da BAT Brasil (Exemplo - adapte as cores e fontes!) */
+/* Estilos da BAT Brasil (Cores e fontes) - Adapte conforme necessário */
 h1 {
-    color: #007bff; /* Azul da BAT Brasil (exemplo) */
-}
-
-.card {
-    border: 1px solid #ccc; /* Borda suave */
+    color: #0056b3; /* Azul mais escuro para o título */
+    font-weight: 700; /* Título bem forte */
+    margin-bottom: 20px;
 }
