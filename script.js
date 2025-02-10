@@ -483,6 +483,468 @@ const zoneTargetData = {
         "Retenção": { target: 90, current: 70 },
         "Conversão": { target: 120, current: 90 }
     },
+    "3990_404_082": {
+"Vendas": { target: 180, current: 130 },
+"Varejos Abertos": { target: 95, current: 65 },
+"Novos Clientes": { target: 75, current: 55 },
+"Retenção": { target: 98, current: 78 },
+"Conversão": { target: 135, current: 105 }
+    },
+    "3990_404_083": {
+      "Vendas": { target: 170, current: 120 },
+      "Varejos Abertos": { target: 90, current: 60 },
+      "Novos Clientes": { target: 70, current: 50 },
+      "Retenção": { target: 95, current: 75 },
+      "Conversão": { target: 130, current: 100 }
+    },
+    "3990_404_084": {
+      "Vendas": { target: 160, current: 110 },
+      "Varejos Abertos": { target: 85, current: 55 },
+      "Novos Clientes": { target: 65, current: 45 },
+      "Retenção": { target: 92, current: 72 },
+      "Conversão": { target: 125, current: 95 }
+    },
+     "3990_404_085": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_404_086": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_404_087": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_404_090": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_404_091": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_404_092": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_404_093": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_404_094": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_404_095": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_405_101": {
+      "Vendas": { target: 180, current: 130 },
+      "Varejos Abertos": { target: 95, current: 65 },
+      "Novos Clientes": { target: 75, current: 55 },
+      "Retenção": { target: 98, current: 78 },
+      "Conversão": { target: 135, current: 105 }
+    },
+    "3990_405_102": {
+      "Vendas": { target: 170, current: 120 },
+      "Varejos Abertos": { target: 90, current: 60 },
+      "Novos Clientes": { target: 70, current: 50 },
+      "Retenção": { target: 95, current: 75 },
+      "Conversão": { target: 130, current: 100 }
+    },
+    "3990_405_104": {
+      "Vendas": { target: 160, current: 110 },
+      "Varejos Abertos": { target: 85, current: 55 },
+      "Novos Clientes": { target: 65, current: 45 },
+      "Retenção": { target: 92, current: 72 },
+      "Conversão": { target: 125, current: 95 }
+    },
+     "3990_405_105": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_405_106": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_405_107": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_405_108": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_405_109": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_405_110": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_405_116": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_405_117": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_405_118": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_406_130": {
+      "Vendas": { target: 180, current: 130 },
+      "Varejos Abertos": { target: 95, current: 65 },
+      "Novos Clientes": { target: 75, current: 55 },
+      "Retenção": { target: 98, current: 78 },
+      "Conversão": { target: 135, current: 105 }
+    },
+    "3990_406_131": {
+      "Vendas": { target: 170, current: 120 },
+      "Varejos Abertos": { target: 90, current: 60 },
+      "Novos Clientes": { target: 70, current: 50 },
+      "Retenção": { target: 95, current: 75 },
+      "Conversão": { target: 130, current: 100 }
+    },
+    "3990_406_132": {
+      "Vendas": { target: 160, current: 110 },
+      "Varejos Abertos": { target: 85, current: 55 },
+      "Novos Clientes": { target: 65, current: 45 },
+      "Retenção": { target: 92, current: 72 },
+      "Conversão": { target: 125, current: 95 }
+    },
+     "3990_406_133": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_406_134": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_406_135": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_406_136": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_406_137": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_406_138": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_406_139": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_406_140": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_406_141": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_406_142": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_407_141": {
+      "Vendas": { target: 180, current: 130 },
+      "Varejos Abertos": { target: 95, current: 65 },
+      "Novos Clientes": { target: 75, current: 55 },
+      "Retenção": { target: 98, current: 78 },
+      "Conversão": { target: 135, current: 105 }
+    },
+    "3990_407_142": {
+      "Vendas": { target: 170, current: 120 },
+      "Varejos Abertos": { target: 90, current: 60 },
+      "Novos Clientes": { target: 70, current: 50 },
+      "Retenção": { target: 95, current: 75 },
+      "Conversão": { target: 130, current: 100 }
+    },
+    "3990_407_143": {
+      "Vendas": { target: 160, current: 110 },
+      "Varejos Abertos": { target: 85, current: 55 },
+      "Novos Clientes": { target: 65, current: 45 },
+      "Retenção": { target: 92, current: 72 },
+      "Conversão": { target: 125, current: 95 }
+    },
+     "3990_407_145": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_407_146": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_407_147": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_407_148": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_407_149": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_407_150": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_407_151": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_407_152": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_407_153": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_407_154": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_407_155": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_407_156": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_407_157": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_410_180": {
+      "Vendas": { target: 180, current: 130 },
+      "Varejos Abertos": { target: 95, current: 65 },
+      "Novos Clientes": { target: 75, current: 55 },
+      "Retenção": { target: 98, current: 78 },
+      "Conversão": { target: 135, current: 105 }
+    },
+    "3990_410_181": {
+      "Vendas": { target: 170, current: 120 },
+      "Varejos Abertos": { target: 90, current: 60 },
+      "Novos Clientes": { target: 70, current: 50 },
+      "Retenção": { target: 95, current: 75 },
+      "Conversão": { target: 130, current: 100 }
+    },
+    "3990_410_182": {
+      "Vendas": { target: 160, current: 110 },
+      "Varejos Abertos": { target: 85, current: 55 },
+      "Novos Clientes": { target: 65, current: 45 },
+      "Retenção": { target: 92, current: 72 },
+      "Conversão": { target: 125, current: 95 }
+    },
+     "3990_410_183": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_410_184": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_410_185": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_410_186": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_410_187": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_410_188": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+     "3990_410_189": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_410_190": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_410_192": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    },
+    "3990_410_193": {
+        "Vendas": { target: 150, current: 100 },
+        "Varejos Abertos": { target: 80, current: 50 },
+        "Novos Clientes": { target: 60, current: 40 },
+        "Retenção": { target: 90, current: 70 },
+        "Conversão": { target: 120, current: 90 }
+    }
 };
 // Preenche o select de UF
 const ufSelect = document.getElementById("ufSelect");
